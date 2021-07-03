@@ -1,6 +1,6 @@
 {
   "name": "@metric-studios/sav-reader",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Utility to read SAV files sequentially",
   "main": "dist/index.js",
   "dependencies": {
