@@ -1,15 +1,18 @@
 {
-  "name": "sav-reader",
+  "name": "@metric-studios/sav-reader",
   "version": "0.0.0",
   "description": "Utility to read SAV files sequentially",
-  "main": "index.js",
-  "dependencies": {},
+  "main": "dist/index.js",
+  "dependencies": {
+    "@types/node": "^16.0.0",
+    "fs": "0.0.1-security"
+  },
   "devDependencies": {
     "ts-node": "^10.0.0",
     "typescript": "^4.3.5"
   },
   "scripts": {
-    "build": "tsc src/index.ts",
+    "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
