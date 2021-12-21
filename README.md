@@ -1,3 +1,3 @@
 # sav-reader
 
-DON'T USE ME. I'M STILL TRYING TO FIGURE THIS OUT!
+DON'T USE ME. Use "sav" instead.
